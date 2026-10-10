@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Local runtime data
+backend/app.db
+backend/app.db-*
+
+# Frontend build/install artifacts
+frontend/node_modules/
+frontend/dist/
+
+# macOS metadata
+.DS_Store
